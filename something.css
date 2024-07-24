@@ -1243,8 +1243,8 @@ width: 40%;
 
 .ArrowBut{
     position: sticky;
+    top:10.5%;
     left:0.75%;
-    top:1.5%;  
     width: 25px;
     height: 25px;
     border: none;
@@ -1256,7 +1256,7 @@ width: 40%;
     transform:scaleX(80%)scaleY(80%) translateY(-30px) translateX(0px);
     background-color:var(--BackColor);
     filter:invert(1);
-
+    
     cursor:pointer;
 }
 
